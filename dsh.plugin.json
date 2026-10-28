@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "dsh-window-locator",
-  "description": "Windows monitor geometry and foreground window query in physical pixels.",
+  "description": "DeepSeek Harness 窗口定位插件：Windows 显示器几何与前台窗口（物理像素）",
   "version": "0.1.0",
   "entry": {
     "name": "dsh-window-locator",

@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "dsh-window-locator",
   "version": "0.1.0",
-  "description": "Windows monitor geometry + foreground window (physical pixels) as DeepSeek Harness tools.",
+  "description": "DeepSeek Harness 窗口定位插件：Windows 显示器几何与前台窗口（物理像素）",
   "keywords": ["dsh", "dsh-plugin", "deepseek-harness", "windows", "monitor", "foreground"],
   "homepage": "https://github.com/canyueY/dsh-window-locator#readme",
   "bugs": { "url": "https://github.com/canyueY/dsh-window-locator/issues" },
