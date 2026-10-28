@@ -4,7 +4,7 @@ Windows **显示器几何**与**前台窗口**查询（**物理像素**），做
 
 > 社区插件，与 DeepSeek 官方无关。  
 > 概念来自 [`canyueY/window-locator`](https://github.com/canyueY/window-locator)。  
-> 英文简版：[README.en.md](./README.en.md)
+> English: [README.en.md](./README.en.md)
 
 ## 为什么需要它
 
