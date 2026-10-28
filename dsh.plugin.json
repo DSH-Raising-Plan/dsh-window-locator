@@ -1,0 +1,9 @@
+{
+  "name": "dsh-window-locator",
+  "description": "Windows monitor geometry and foreground window query in physical pixels.",
+  "version": "0.1.0",
+  "entry": {
+    "name": "dsh-window-locator",
+    "inject": ["tools"]
+  }
+}
